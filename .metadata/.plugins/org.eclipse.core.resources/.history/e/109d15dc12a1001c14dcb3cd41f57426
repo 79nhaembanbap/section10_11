@@ -1,0 +1,12 @@
+package Main;
+
+import Model.Employee;
+
+public class MainTest {
+	Employee employee = new Employee() {
+		@Override
+		public void salary() {
+
+		}
+	};
+}

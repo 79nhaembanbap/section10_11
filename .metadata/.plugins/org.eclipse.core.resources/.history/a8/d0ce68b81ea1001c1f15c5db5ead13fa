@@ -1,0 +1,17 @@
+package MainTest;
+
+import Model.Laptop;
+import Service.LaptopService;
+import ServiceImpl.LaptopServiceImpl;
+
+public class maintest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Laptop laptop = new Laptop();
+		LaptopService laptopService = new LaptopServiceImpl();
+		laptopService.input(laptop);
+		laptopService.info(laptop);
+	}
+
+}

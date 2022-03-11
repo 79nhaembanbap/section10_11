@@ -1,0 +1,30 @@
+package ServiceImpl;
+
+import java.util.Scanner;
+
+import Model.Laptop;
+import Model.School;
+import Service.LaptopService;
+import Service.SchoolService;
+
+public class SchoolServiceImpl implements SchoolService {
+
+	@Override
+	public void input(School school) {
+		System.out.println("Vui long nhap thong tin School");
+
+		Scanner scan1 = new Scanner(System.in);
+		System.out.println("Vui long nhap ID");
+		school.setId(scan1.nextInt());
+
+		Scanner scan2 = new Scanner(System.in);
+		System.out.println("Vui long nhap Name");
+		school.setName(scan2.nextLine());
+
+	}
+
+	@Override
+	public void info(School school) {
+		System.out.println("ID: " + school.getId() + " Name: " + school.getName());
+	}
+}

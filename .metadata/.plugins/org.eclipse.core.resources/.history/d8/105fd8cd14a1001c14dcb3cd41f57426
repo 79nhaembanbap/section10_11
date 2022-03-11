@@ -1,0 +1,16 @@
+package Main;
+
+import Model.FoodMenu;
+
+public class MainTest2 {
+
+	public static void main(String[] args) {
+		FoodMenu[] foodMenus = new FoodMenu[2];
+		for (FoodMenu foodMenu : foodMenus) {
+			System.out.println(foodMenu.getId());
+			System.out.println(foodMenu.getName());
+		}
+
+	}
+
+}

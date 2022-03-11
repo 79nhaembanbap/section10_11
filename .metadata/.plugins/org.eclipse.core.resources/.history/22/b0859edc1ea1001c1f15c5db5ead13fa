@@ -1,0 +1,19 @@
+package maintest;
+
+import Model.Laptop;
+import Service.LaptopService;
+import ServiceImpl.LaptopServiceImpl;
+
+public class maintest {
+
+	public static void main(String[] args) {
+		public static void main(String[] args) {
+			Student student = new Student();
+			StudentService studentService = new StudentServiceImpl();
+			studentService.input(student);
+			studentService.info(student);
+		}
+	
+	}
+
+}

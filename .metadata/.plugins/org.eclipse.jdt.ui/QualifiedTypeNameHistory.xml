@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="ServiceImpl.AddressServiceImpl"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="Model.FoodMenu"/>
+    <fullyQualifiedTypeName name="Model.Employee"/>
+    <fullyQualifiedTypeName name="Model.Boss"/>
+    <fullyQualifiedTypeName name="Model.Person"/>
+    <fullyQualifiedTypeName name="Model.Laptop"/>
+    <fullyQualifiedTypeName name="ServiceImpl.LaptopServiceImpl"/>
+    <fullyQualifiedTypeName name="Service.SchoolService"/>
+    <fullyQualifiedTypeName name="Service.AddressService"/>
+    <fullyQualifiedTypeName name="Model.Address"/>
+    <fullyQualifiedTypeName name="Model.School"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="Model.Student"/>
+    <fullyQualifiedTypeName name="ServiceImpl.StudentServiceImpl"/>
+    <fullyQualifiedTypeName name="Service.StudentService"/>
+    <fullyQualifiedTypeName name="Service.LaptopService"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,20 @@
+package ServiceImpl;
+
+import Model.Laptop;
+import Service.LaptopService;
+
+public class LaptopServiceImpl implements LaptopService {
+
+	@Override
+	public void input(Laptop laptop) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void info(Laptop laptop) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

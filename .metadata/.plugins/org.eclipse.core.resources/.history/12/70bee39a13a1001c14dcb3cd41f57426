@@ -1,0 +1,8 @@
+package Model;
+
+public enum FoodMenu {
+   private int id;
+   private String name;
+
+   
+}
